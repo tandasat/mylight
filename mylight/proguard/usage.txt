@@ -1,0 +1,10 @@
+com.example.mylight.BuildConfig
+com.example.mylight.R
+com.example.mylight.R$attr
+com.example.mylight.R$dimen
+com.example.mylight.R$drawable
+com.example.mylight.R$id
+com.example.mylight.R$layout
+com.example.mylight.R$menu
+com.example.mylight.R$string
+com.example.mylight.R$style

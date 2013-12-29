@@ -1,0 +1,13 @@
+com.example.mylight.MainActivity
+com.example.mylight.MainActivity: MainActivity()
+com.example.mylight.R$dimen: int activity_horizontal_margin
+com.example.mylight.R$dimen: int activity_vertical_margin
+com.example.mylight.R$drawable: int ic_launcher
+com.example.mylight.R$id: int action_settings
+com.example.mylight.R$layout: int activity_main
+com.example.mylight.R$menu: int main
+com.example.mylight.R$string: int action_settings
+com.example.mylight.R$string: int app_name
+com.example.mylight.R$string: int hello_world
+com.example.mylight.R$style: int AppBaseTheme
+com.example.mylight.R$style: int AppTheme

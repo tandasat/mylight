@@ -1,0 +1,8 @@
+com.example.mylight.MainActivity -> com.example.mylight.MainActivity:
+    android.hardware.Camera camera -> a
+    void onCreate(android.os.Bundle) -> onCreate
+    void onStop() -> onStop
+    void onPause() -> onPause
+com.example.mylight.MainActivity$MyAutoFocusCallback -> com.example.mylight.a:
+    com.example.mylight.MainActivity this$0 -> a
+    void onAutoFocus(boolean,android.hardware.Camera) -> onAutoFocus
